@@ -30,6 +30,12 @@ public class Operadores {
             resultado=y/3;
             System.out.println("El resultado de la Division es: "+resultado);
             
+            resultado=x++;
+            System.out.println("El resultado es: "+resultado);
+
+            System.out.println("Hola ;D ");
+            System.out.println("Hola simono.");
+            
     }
     
 }
